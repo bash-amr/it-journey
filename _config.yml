@@ -302,3 +302,4 @@ exclude: [vendor]
 
 atom_feed:
 path                   : # blank (default) uses feed.xml
+theme: jekyll-theme-cayman
